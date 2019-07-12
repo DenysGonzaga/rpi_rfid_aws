@@ -1,2 +1,2 @@
 # RPI-RFID-AWS
-Using AWS Iot / Lambda / DynamoDb code for interact with RaspberryPi / RFID and RGB LED.
+This repository is only reference for using AWS Iot / Lambda / DynamoDb code for interact with RaspberryPi / RFID and RGB LED modules.
